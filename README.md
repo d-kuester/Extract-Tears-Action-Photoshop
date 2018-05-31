@@ -12,5 +12,7 @@ Watch the <a href="http://www.faculty.jacobs-university.de/dkuester/Tear-Transfe
 
 In the Actions panel, click on the action to run, and hit the "Play" button at the bottom of that panel. The set contains only a single version of the action that will take a moment to execute.
 
+Result: The action generates a set of 4 new layers that look nearly black except for the extracted tear(s). These layers contain 4 different versions of the tear(s) that are blended together to create appropriate highlights and shadows produced by the tears. These can now be copied and moved inside the same Photoshop file, moved on top of an entirely different image, or stored for later use. When used with other images, it is recommended to tweak the blend-percentages assigned to the 4 layers to correct for differences in the lighting of both images.
+
 # Citations
 ---Reference to be included---
